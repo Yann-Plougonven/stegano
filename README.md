@@ -5,7 +5,7 @@ Il s'agit d'un exercice réalisé en cours de NSI, en octobre 2021, pendant l'an
 
 La création de ce readme et d'autres légers changements ont été effectué en novembre 2022.
 
-## Utilisaton du programme stegano.py
+## Utilisation du programme stegano.py
 * La librairie PIL doit être installée.
 * Les images que vous souhaitez utiliser dans ce programme doivent être présentes dans le même dossier que le ficher "stegano.py".
 * Les formats d'image .jpg et .bmp sont acceptés. Le format png n'est pas accepté car il possède un canal de couleur supplémentaire, pour la transparence.
