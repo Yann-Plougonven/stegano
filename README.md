@@ -11,4 +11,4 @@ La création de ce readme et d'autres légers changements ont été effectué en
 * Les formats d'image .jpg et .bmp sont acceptés. Le format png n'est pas accepté car il possède un canal de couleur supplémentaire, pour la transparence.
 * L'image hôte et l'image invitée, utilisées pour la dissimulation, doivent faire la même taille (la même définition).
 
-
+Des images d'exemples, utiles pour tester le programme, sont présentes dans ce dépôt. Vous pouvez également utiliser vos propres images. 
