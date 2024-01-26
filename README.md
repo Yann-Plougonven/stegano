@@ -1,5 +1,5 @@
 # Stegano
-Ce programme de stéganographie permet de dissimuler une première image dans les 2 bits de poids faible des pixels d'une seconde image. Dans le sens inverse, le programme permet également de réveler les images dissimulée.
+Ce programme de stéganographie permet de dissimuler une première image dans les 2 bits de poids faible des pixels d'une seconde image. Dans le sens inverse, le programme permet également de révéler les images dissimulée.
 
 Il s'agit d'un exercice réalisé en cours de NSI, en octobre 2021, pendant l'année de première. Le fonctionnement ce programme n'est pas optimal.
 
